@@ -36,8 +36,3 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Kauavitor18/Kauavitor18/output/snake.svg" alt="Snake animation" />
-
-###
